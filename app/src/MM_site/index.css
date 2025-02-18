@@ -1,0 +1,49 @@
+body,
+html {
+  color: rgb(160, 243, 239);
+  font-family: monaco;
+  background-color: rgb(14, 14, 26);
+}
+
+.logo {
+  font-size: 8rem;
+  margin-right: 20px;
+}
+
+#bar {
+  text-decoration: none;
+  color: rgb(181, 240, 237);
+  font-size: 1.5rem;
+  margin: 20px;
+}
+
+.head-containerM {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-left: 20px;
+}
+
+#pic1 img {
+  width: 300px;
+}
+
+#pic2 img {
+  width: 300px;
+}
+#pic3 img {
+  width: 300px;
+}
+#pic4 img {
+  width: 300px;
+}
+#pic5 img {
+  width: 300px;
+}
